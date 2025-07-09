@@ -1,0 +1,125 @@
+GALI MALLIKARJUNA REDDY – PERSONAL DATA FOR RAG SYSTEM TRAINING
+
+Gali Mallikarjuna Reddy is a dedicated final-year B.Tech student pursuing Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning (AIML) at CMR University, Bangalore. With a remarkable CGPA of 9.31, he has consistently demonstrated academic excellence and a deep interest in cutting-edge technologies, particularly in AI and data science.
+
+ACADEMIC BACKGROUND
+
+Mallikarjuna’s academic journey began with an excellent performance in his school years. He secured 99% in his 10th grade at Narayana E-Techno School, Markapuram, Andhra Pradesh. He continued his education at Kamala Junior College, where he completed his intermediate studies with a score of 69.9%.
+
+In 2022, he joined CMR University for his undergraduate studies in B.Tech CSE with AIML specialization. His coursework has involved intensive training in subjects such as Machine Learning, Data Science, Natural Language Processing, and Generative AI. 
+
+PROJECTS
+
+1. GenAI Powered Chatbot (March 2024):
+   This project involved building a chatbot using large language models (LLMs) capable of real-time, context-aware responses. The chatbot used advanced prompt engineering techniques to enhance the quality and relevance of replies. Mallikarjuna deployed the chatbot through a scalable web interface for smooth user experience and real-time interaction.
+
+2. Book Recommendation System (September 2023):
+   He developed a machine learning-based recommendation system that analyzed features like book genre, author, and description. The system used content-based filtering to recommend books tailored to individual user preferences.
+
+3. Emoji Detection from Text (December 2020):
+   This project involved building an NLP model to detect and classify emojis in input text based on sentiment and context. It used text preprocessing, feature extraction, and classification algorithms to accurately identify emoji emotions.
+
+TECHNICAL SKILLS
+
+Languages:
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+
+Libraries & Frameworks:
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- Streamlit
+
+Databases:
+- MySQL
+- MongoDB
+
+Tools:
+- Git
+- Docker
+- VS Code
+
+Soft Skills:
+- Leadership
+- Time Management
+- Team Collaboration
+- Problem Solving
+
+CERTIFICATIONS
+
+- Full Stack Python Programming – Python Life (March 2023)
+- Data Science – Euron (January 2024)
+- SQL Masters – Euron (December 2024)
+
+INTERNSHIP
+
+In July 2024, Mallikarjuna completed an internship in Python Programming. During this internship, he gained hands-on experience working with core Python concepts, data structures, and algorithms. He also learned to collaborate with teams and improve the efficiency and scalability of Python applications.
+
+INTEREST AREAS
+
+Mallikarjuna’s main areas of interest include:
+- Generative AI
+- Machine Learning
+- Natural Language Processing
+- AI for education and healthcare
+- Ethical AI practices
+
+ONLINE PRESENCE
+
+- LinkedIn: https://linkedin.com/in/gali-mallikarjuna-reddy-ab7225349
+- GitHub: https://github.com/MALLIKARJUNAREDDYgali
+
+Mallikarjuna maintains an active GitHub profile where he shares his academic projects, open-source contributions, and personal experiments with AI. His LinkedIn profile showcases his learning journey, certifications, and professional growth.
+
+ASPIRATIONS
+
+Mallikarjuna aims to become a successful software developer or AI engineer working on real-world AI products. His dream is to design systems that can solve human problems using machine intelligence. He is especially passionate about contributing to projects that can create positive societal impact.
+
+He is also interested in pursuing higher education or entering research-based roles in the field of artificial intelligence. In the long term, he wants to contribute to AI systems that enhance education, automate tedious tasks, and promote intelligent decision-making.
+
+LONG-FORM BIO
+
+Gali Mallikarjuna Reddy is a visionary student, deeply committed to AI research and innovation. Born with a natural curiosity for computers and a desire to solve complex problems, he embarked on his tech journey early. From developing NLP models to building full-stack applications powered by machine learning, Mallikarjuna has shown what it means to be a modern AI learner and builder.
+
+His academic achievements are matched by his project portfolio, which includes innovations in chatbot systems, recommendation engines, and sentiment analysis. With a solid grip over Python, Java, and data analysis tools, he bridges the gap between theoretical knowledge and practical implementation.
+
+He is a firm believer in ethical AI and is fascinated by how Generative AI is transforming industries. Outside of programming, Mallikarjuna is an excellent team player and communicator, often assisting peers and participating in tech communities.
+
+RAG SYSTEM SAMPLE QUERIES
+
+Q: Who is Gali Mallikarjuna Reddy?
+A: A final-year B.Tech AIML student from CMR University with interests in AI and ML.
+
+Q: What chatbot project did he work on?
+A: A Generative AI-powered chatbot using LLMs with prompt engineering and real-time web interface.
+
+Q: What are his programming skills?
+A: Python, Java, SQL, HTML, CSS, along with frameworks like TensorFlow and Scikit-learn.
+
+Q: What is his CGPA?
+A: 9.31
+
+Q: What certifications does he hold?
+A: Full Stack Python, Data Science, and SQL Masters.
+
+Q: What is his educational background?
+A: B.Tech CSE AIML from CMR University, Intermediate from Kamala Junior College, and 10th from Narayana E-Techno School.
+
+Q: What’s one of his notable ML projects?
+A: A content-based book recommendation system.
+
+Q: What internship did he complete?
+A: Python Programming Internship in July 2024.
+
+Q: What soft skills does he possess?
+A: Leadership, Time Management, Team Collaboration, and Problem Solving.
+
+Q: Where can I find his projects?
+A: On GitHub – MALLIKARJUNAREDDYgali
+
+END OF TRAINING DATA
